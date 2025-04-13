@@ -1,1 +1,0 @@
-../inheritance/board.h
